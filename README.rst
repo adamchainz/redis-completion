@@ -16,7 +16,7 @@ redis-completion is capable of storing a large number of phrases and quickly
 searching them for matches.  Rich data can be stored and retrieved, helping you
 avoid trips to the database when retrieving search results.
 
-check out the `documentation <http://redis-completion.rtfd.org/>`_ for more info.
+check out the `documentation <https://redis-completion.readthedocs.io/>`_ for more info.
 
 usage
 -----
@@ -79,4 +79,4 @@ Install via git::
 schema
 ------
 
-.. image:: http://redis-completion.readthedocs.org/en/latest/_images/schema.jpg
+.. image:: https://redis-completion.readthedocs.io/en/latest/_images/schema.jpg
